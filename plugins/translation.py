@@ -34,13 +34,13 @@ I Am Telegram URL Uploader Bot.
 
 **❤️ Version** : [2.3 🔥](http://t.me/UploadFlieBot)
 
-**🤖 Source** : [Click](https://github.com/LISA-KOREA/UPLOADER-BOT-V3)
+
 
 **🧿 Language** : [Python 3.10.9](https://www.python.org/)
 
 **📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
-**👨‍💻 Developer** : [LISA](https://t.me/LISA_FAN_KL)
+**👨‍💻 Developer** : [L-FLIX](https://t.me/Dgtrvff_bot)
 
 """
 
